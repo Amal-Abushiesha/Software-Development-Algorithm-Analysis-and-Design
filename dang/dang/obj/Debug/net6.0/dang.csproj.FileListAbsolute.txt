@@ -1,0 +1,14 @@
+C:\Users\Amal\source\repos\dang\dang\obj\Debug\net6.0\dang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amal\source\repos\dang\dang\obj\Debug\net6.0\dang.AssemblyInfoInputs.cache
+C:\Users\Amal\source\repos\dang\dang\obj\Debug\net6.0\dang.AssemblyInfo.cs
+C:\Users\Amal\source\repos\dang\dang\obj\Debug\net6.0\dang.csproj.CoreCompileInputs.cache
+C:\Users\Amal\source\repos\dang\dang\bin\Debug\net6.0\dang.exe
+C:\Users\Amal\source\repos\dang\dang\bin\Debug\net6.0\dang.deps.json
+C:\Users\Amal\source\repos\dang\dang\bin\Debug\net6.0\dang.runtimeconfig.json
+C:\Users\Amal\source\repos\dang\dang\bin\Debug\net6.0\dang.dll
+C:\Users\Amal\source\repos\dang\dang\bin\Debug\net6.0\ref\dang.dll
+C:\Users\Amal\source\repos\dang\dang\bin\Debug\net6.0\dang.pdb
+C:\Users\Amal\source\repos\dang\dang\obj\Debug\net6.0\dang.dll
+C:\Users\Amal\source\repos\dang\dang\obj\Debug\net6.0\ref\dang.dll
+C:\Users\Amal\source\repos\dang\dang\obj\Debug\net6.0\dang.pdb
+C:\Users\Amal\source\repos\dang\dang\obj\Debug\net6.0\dang.genruntimeconfig.cache
